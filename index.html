@@ -223,11 +223,10 @@ window.cookieconsent.initialise({
     "deny": "Opt out",
     "link": "Learn more about the policy",
     "href": "https://www.shahwalishayan.com/privacy.html"
+   
   }
 })});
-</script>
-  
-    onInitialise: function (status) {
+  onInitialise: function (status) {
   var type = this.options.type;
   var didConsent = this.hasConsented();
   if (type == 'opt-in' && didConsent) {
@@ -258,6 +257,11 @@ onRevokeChoice: function() {
     // enable cookies
   }
 },
+
+
+
+</script>
+  
 
 
 
