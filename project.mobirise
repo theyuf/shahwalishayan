@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,7 +52,7 @@
     "gdpr": "By continiung you agree to our  <a href='policy.html'>Privacy Policy</a> and sharing your data with us.",
     "siteUrl": "https://shahwalishayan.com",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -61,8 +61,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Shahwali Shayan Home",
+        "meta_descr": "\n\nShahwali Shayan is a Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through digital marketing, design and strategy development. \n\nSocial media marketing:\nBased on the mission and vision of your organisation, the best techniques will be put in place to develop the most result oriented digital marketing campaigns. These campaigns will increase your digital footprint through different social media tools.\n\nDesign\n\nShahwali offers design consultancy to organisations struggling with their brand identity. The services include: rebranding, logo design, graphic design and UX/UI design for website and mobile apps. \n\nStrategy\n\nStrategizing is not solely restricted to raising funds for organisations. Shahwali offers strategy consultation that can increase client engagement and can help your organisation achieve its goals more effectively through innovative ideas.\n\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
