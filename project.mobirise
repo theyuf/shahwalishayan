@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -16,7 +16,7 @@
         "display1Font": "Quicksand",
         "display1Size": "1.3",
         "display2Font": "Quicksand",
-        "display2Size": "2",
+        "display2Size": "2.3",
         "display5Font": "Quicksand",
         "display5Size": "1.7",
         "display7Font": "Quicksand",
@@ -43,13 +43,13 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 17,
+    "uniqCompNum": 16,
     "versionPublish": "4.8.7",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-124x122.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-129172909-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-129172909-1');\r\n</script>\r\n\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. By using this site, you agree to this use. Read our <a href='privacy.html'>cookie policy</a>\r\n",
-    "gdpr": "By continiung you agree to our  <a href='policy.html'>Privacy Policy</a> and sharing your data with us.",
+    "gdpr": "By continiung you agree to our  <a href='privacy.html'>Privacy Policy</a> and sharing your data with us.",
     "siteUrl": "https://shahwalishayan.com",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
@@ -136,11 +136,11 @@
           "_name": "header1",
           "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#333a91\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\">I can help you increase your digital footprint and brand awareness. <b>Interested</b>?</h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\"></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-info\" href=\"index.html#features8-7\" data-app-placeholder=\"Type Text\">\n                        SHOW ME</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "raackjy8v4",
+          "_anchor": "header1-g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header1-g"
+          "_params": {}
         },
         {
           "_styles": {
