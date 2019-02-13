@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "portfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.8.7",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-124x122.png",
     "noImageResize": "",
@@ -58,7 +58,8 @@
     "robotsSwitcher": "on",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
-    "witsec-white-label": "on"
+    "witsec-white-label": "on",
+    "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n"
   },
   "pages": {
     "index.html": {
