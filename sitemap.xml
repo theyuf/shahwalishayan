@@ -6,9 +6,6 @@
 		<loc>https://shahwalishayan.com/privacy.html</loc>
 	</url>
 	<url>
-		<loc>https://shahwalishayan.com/portfolio.html</loc>
-	</url>
-	<url>
 		<loc>https://shahwalishayan.com/ssm.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,8 @@
 	</url>
 	<url>
 		<loc>https://shahwalishayan.com/strategy.html</loc>
+	</url>
+	<url>
+		<loc>https://shahwalishayan.com/portfolio.html</loc>
 	</url>
 </urlset>
