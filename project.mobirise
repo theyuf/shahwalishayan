@@ -45,7 +45,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 24,
+    "uniqCompNum": 32,
     "versionPublish": "4.8.7",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-124x122.png",
     "noImageResize": "",
@@ -66,7 +66,7 @@
         "main": true,
         "title": "Shahwali Shayan - Digital Growth Consultant",
         "meta_descr": "Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through digital marketing, design and strategy development. \n\n",
-        "header_custom": "<h1>Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through digital marketing, design and strategy development.<h1/>\n",
+        "header_custom": "\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -779,7 +779,7 @@
       "settings": {
         "meta_descr": "Social media marketing:\nBased on the mission and vision of your organisation, the best techniques will be put in place to develop the most result oriented digital marketing campaigns. These campaigns will increase your digital footprint through different social media tools.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Social Media Marketing Consultant",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1453,7 +1453,7 @@
       "settings": {
         "meta_descr": "Design: Shahwali offers design consultancy to organisations struggling with their brand identity. The services include: rebranding, logo design, graphic design and UX/UI design for website and mobile apps. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Design Consultant",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2238,7 +2238,7 @@
       "settings": {
         "meta_descr": "Strategy: Strategizing is not solely restricted to raising funds for organisations. Shahwali offers strategy consultation that can increase client engagement and can help your organisation achieve its goals more effectively through innovative ideas.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Strategy Consultant",
-        "order": 1,
+        "order": 2,
         "header_custom": ""
       },
       "components": [
