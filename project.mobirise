@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -64,7 +64,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Shahwali Shayan - Graphic Design, Digital Marketing and Strategy Consultant for non profits and social enterprises",
+        "title": "Shahwali Shayan - Growth Consultant",
         "meta_descr": "Shahwali Shayan is a Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through digital marketing, design and strategy development. \n\n",
         "header_custom": "<h1> Shahwali Shayan is a Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through digital marketing, design and strategy development.<h1/>\n",
         "footer_custom": "",
@@ -115,7 +115,7 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"110\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/top-page-background-with-rec.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#000000\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/me-4-414x408.png\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-1\"><b>\n                        </b><br><b><br></b><b>Shahwali Shayan</b> is a Growth Consultant who works with <b>non-profits</b> and <b>social enterprises</b>&nbsp;to increase their brand awareness through digital marketing, design and strategy development.&nbsp;<br><br><br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"index.html#features8-7\" data-app-placeholder=\"Type Text\">LEARN MORE</a> <a class=\"btn btn-md btn-primary\" href=\"mailto:shahwali.shayan@gmail.com\" data-app-placeholder=\"Type Text\">CONTACT NOW</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"110\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/top-page-background-with-rec.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#000000\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/me-4-414x408.png\" alt=\"Shahwali Shayan\" title=\"Shahwali Shayan - Designer, Social Media Marketer and Strategist\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-1\"><b>\n                        </b><br><b><br></b><b>Shahwali Shayan</b> is a Growth Consultant who works with <b>non-profits</b> and <b>social enterprises</b>&nbsp;to increase their brand awareness through digital marketing, design and strategy development.&nbsp;<br><br><br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"index.html#features8-7\" data-app-placeholder=\"Type Text\">LEARN MORE</a> <a class=\"btn btn-md btn-primary\" href=\"mailto:shahwali.shayan@gmail.com\" data-app-placeholder=\"Type Text\">CONTACT NOW</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "r9tFCqId1p",
           "_anchor": "header3-3",
           "_protectedParams": [],
@@ -775,7 +775,7 @@
     "ssm.html": {
       "settings": {
         "meta_descr": "Social media marketing:\nBased on the mission and vision of your organisation, the best techniques will be put in place to develop the most result oriented digital marketing campaigns. These campaigns will increase your digital footprint through different social media tools.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
-        "title": "Social Media Marketing -Shahwali Shayan - Graphic Design, Digital Marketing and Strategy Consultant for non profits and social enterprises",
+        "title": "Shahwali Shayan - Social Media Marketing Consultant",
         "order": 3
       },
       "components": [
@@ -1449,7 +1449,7 @@
     "design.html": {
       "settings": {
         "meta_descr": "Design: Shahwali offers design consultancy to organisations struggling with their brand identity. The services include: rebranding, logo design, graphic design and UX/UI design for website and mobile apps. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
-        "title": "Design -Shahwali Shayan - Graphic Design, Digital Marketing and Strategy Consultant for non profits and social enterprises",
+        "title": "Shahwali Shayan - Design Consultant",
         "order": 2
       },
       "components": [
@@ -2234,7 +2234,7 @@
     "strategy.html": {
       "settings": {
         "meta_descr": "Strategy: Strategizing is not solely restricted to raising funds for organisations. Shahwali offers strategy consultation that can increase client engagement and can help your organisation achieve its goals more effectively through innovative ideas.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
-        "title": "Strategy -Shahwali Shayan - Graphic Design, Digital Marketing and Strategy Consultant for non profits and social enterprises",
+        "title": "Shahwali Shayan - Strategy Consultant",
         "order": 1,
         "header_custom": ""
       },
@@ -3028,7 +3028,7 @@
     "portfolio.html": {
       "settings": {
         "meta_descr": "Shahwali Shayan is a Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through digital marketing, design and strategy development. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
-        "title": "Portfolio -Shahwali Shayan - Graphic Design, Digital Marketing and Strategy Consultant for non profits and social enterprises",
+        "title": "Shahwali Shayan - Growth Consultant Portfolio",
         "order": 5
       },
       "components": [
