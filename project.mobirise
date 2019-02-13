@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "index.html",
+    "currentPage": "strategy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,8 +53,8 @@
     "cookiesAlert": "We use cookies to give you the best experience. By using this site, you agree to this use. Read our <a href='privacy.html'>cookie policy</a>\r\n",
     "gdpr": "By continiung you agree to our  <a href='privacy.html'>Privacy Policy</a> and sharing your data with us.",
     "siteUrl": "https://shahwalishayan.com",
-    "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
+    "sitemapSwitcherAuto": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n\n",
     "robotsSwitcher": "on",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
