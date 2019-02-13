@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'Quicksand', sans-serif;
-  font-size: 2.3rem;
+  font-size: 2.5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.68rem;
+  font-size: 4rem;
 }
 .display-2 {
   font-family: 'Quicksand', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.84rem;
-    font-size: calc( 1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.2rem;
