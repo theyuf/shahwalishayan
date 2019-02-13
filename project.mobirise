@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,7 @@
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
     "witsec-white-label": "on",
-    "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n"
+    "header_custom": ""
   },
   "pages": {
     "index.html": {
@@ -67,7 +67,7 @@
         "main": true,
         "title": "Shahwali Shayan - Digital Growth Consultant",
         "meta_descr": "Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through social media marketing, design and strategy development. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
-        "header_custom": "\n",
+        "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -757,7 +757,8 @@
       "settings": {
         "meta_descr": "Cookies for www.shahwalishayan.com",
         "title": "Cookie Policy",
-        "order": 6
+        "order": 6,
+        "header_custom": ""
       },
       "components": [
         {
@@ -788,7 +789,8 @@
       "settings": {
         "meta_descr": "Social media marketing:\nBased on the mission and vision of your organisation, the best techniques will be put in place to develop the most result oriented digital marketing campaigns. These campaigns will increase your digital footprint through different social media tools.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Social Media Marketing Consultant",
-        "order": 4
+        "order": 4,
+        "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n"
       },
       "components": [
         {
@@ -1464,7 +1466,8 @@
       "settings": {
         "meta_descr": "Design: Shahwali offers design consultancy to organisations struggling with their brand identity. The services include: rebranding, logo design, graphic design and UX/UI design for website and mobile apps. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Design Consultant",
-        "order": 3
+        "order": 3,
+        "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n"
       },
       "components": [
         {
@@ -2250,7 +2253,7 @@
         "meta_descr": "Strategy: Strategizing is not solely restricted to raising funds for organisations. Shahwali offers strategy consultation that can increase client engagement and can help your organisation achieve its goals more effectively through innovative ideas.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Strategy Consultant",
         "order": 2,
-        "header_custom": ""
+        "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n"
       },
       "components": [
         {
@@ -3044,7 +3047,7 @@
         "meta_descr": "Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through social media marketing, design and strategy development. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Growth Consultant Portfolio",
         "order": 5,
-        "header_custom": ""
+        "header_custom": "<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n"
       },
       "components": [
         {
