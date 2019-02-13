@@ -59,7 +59,7 @@
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
     "witsec-white-label": "on",
-    "header_custom": ""
+    "header_custom": "<meta name:\"description\" contents=\"Shahwali Shayan - social media marketing and strategy for non profits\"> "
   },
   "pages": {
     "index.html": {
