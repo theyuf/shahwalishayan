@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shahwali Shayan Version 2",
-    "currentPage": "privacy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -68,8 +68,8 @@
         "main": true,
         "title": "Shahwali Shayan - Digital Growth Consultant",
         "meta_descr": "Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through social media marketing, design and strategy development. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n\n\n\n",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MXRNCRN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n\n\n\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": ""
       },
       "components": [
@@ -759,8 +759,8 @@
         "meta_descr": "Cookies for www.shahwalishayan.com",
         "title": "Cookie Policy",
         "order": 7,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MXRNCRN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -792,8 +792,8 @@
         "meta_descr": "Social media marketing:\nBased on the mission and vision of your organisation, the best techniques will be put in place to develop the most result oriented digital marketing campaigns. These campaigns will increase your digital footprint through different social media tools.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Social Media Marketing Consultant",
         "order": 4,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MXRNCRN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -1470,8 +1470,8 @@
         "meta_descr": "Design: Shahwali offers design consultancy to organisations struggling with their brand identity. The services include: rebranding, logo design, graphic design and UX/UI design for website and mobile apps. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Design Consultant",
         "order": 3,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
-        "footer_custom": ""
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -2257,8 +2257,8 @@
         "meta_descr": "Strategy: Strategizing is not solely restricted to raising funds for organisations. Shahwali offers strategy consultation that can increase client engagement and can help your organisation achieve its goals more effectively through innovative ideas.\n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Strategy Consultant",
         "order": 2,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MXRNCRN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -3052,8 +3052,8 @@
         "meta_descr": "Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through social media marketing, design and strategy development. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - Growth Consultant Portfolio",
         "order": 5,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MXRNCRN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -4380,8 +4380,8 @@
         "meta_descr": "Shahwali Shayan is a Digital Growth Consultant who works with non-profits and social enterprises to increase their brand awareness through social media marketing, design and strategy development. \n\n#design #socialmediamarketing #nonprofits #notforprofit #growthconsultant #UK #shahwali #shayan #strategy #socialenterprises",
         "title": "Shahwali Shayan - UX/UI Portfolio",
         "order": 6,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MXRNCRN');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MXRNCRN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5QPS3SJ');</script>\n<!-- End Google Tag Manager -->\n\n<meta name=\"keywords\" content=\"growth, consultant, digital, marketing, socialmedia, nonprofits, NGO, social, enterpeises, social enterprises, social media marketing, graphic design, design, not-for-profit, united kingdom, UK\">\n<meta name =\"author\" content=\"Shahwali Shayan\">\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QPS3SJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
